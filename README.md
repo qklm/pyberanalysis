@@ -13,4 +13,3 @@ Our purpose in this analysis was to extract total money spent on ride shares wit
 1. Focus on cultivating advertising leading up to late February, potentially with whoever caused this localized spike.
 2. Though the driver density is substantially higher in Urban locations, drivers stand to make a lot more money per ride.
 3. The variance in suburban areas is high, perhaps bringing more drivers from suburban locations to city locations will increase their take home on less busy weeks.
-4. 
